@@ -1,12 +1,13 @@
+<p align="justify"> 
 **¡Hola! Soy una apasionada de resolver problemas con código 💻✨**  
 Me encanta escribir código limpio, documentar lo que aprendo y, sobre todo, explicar conceptos técnicos complejos de forma sencilla. Actualmente me divido entre mis clases de TICs, aprender sobre semiconductores y dar asesorías de programación.  
-
+</p>
 **🏫 Repositorio de Asesorías Académicas**
-
+<p align="justify"> 
 Este perfil es el "pizarrón virtual" para mis asesorados. Aquí organizo ejercicios prácticos diseñados para llevar a estudiantes desde cero hasta lógica avanzada en C#, Python y C++.  
 
 Así es como estructuro mis repositorios de estudio para que sean fáciles de entender:  
-
+</p>
 >📁 Mis-Asesorias-ITT/
 ├── 🐍 python/
 │   ├── 01_fundamentos/       # Variables, condicionales y bucles básicos  
@@ -31,7 +32,7 @@ public class PerfilDev
   public string InteresActual => "Semiconductores & Electromovilidad"; 
 }    
 </pre>
-
+<p align="justify"> 
 **⚡ En lo que estoy trabajando justo ahora:**
 
 🚧 Plataforma de Asesorías Web: Colaborando en el desarrollo de una plataforma web para el Tec de Tijuana utilizando .NET, implementando activamente buenas prácticas de control de versiones con Git (flujos de trabajo, commits y resolución de conflictos en equipo).
@@ -47,3 +48,4 @@ Si estás buscando una desarrolladora Junior con un pensamiento lógico estructu
 💬 Pregúntame sobre: Lógica de programación, por qué el polimorfismo se parece a un videojuego, o cómo configurar redes Wi-Fi.
 
 📧 Contacto: isuiferia@gmail.com / l24210761@tectijuana.edu.mx
+</p>
