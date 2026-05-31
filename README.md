@@ -8,17 +8,18 @@ Este perfil es el "pizarrón virtual" para mis asesorados. Aquí organizo ejerci
 
 Así es como estructuro mis repositorios de estudio para que sean fáciles de entender:  
 </p>
->📁 Mis-Asesorias-ITT/
-├── 🐍 python/
-│   ├── 01_fundamentos/       # Variables, condicionales y bucles básicos  
-│   ├── 02_list_comprehension/# Optimización y trucos de sintaxis en Python  
-│   └── 03_generadores/       # Ejercicios con yield (procesamiento eficiente)  
-├── 🎯 csharp_net/  
-│   ├── 01_conceptos_poo/     # Abstracción, herencia y polimorfismo práctico  
-│   ├── 02_estructuras_datos/ # Pilas (Stack), Colas (Queue) y Diccionarios  
-│   └── 03_using_statements/  # Ejemplos de gestión de recursos (IDisposable)  
-└── ⚙️ cpp/  
-    └── 01_punteros/          # Gestión de memoria y estructuras básicas en C++
+
+>📁 Mis-Asesorias-ITT/    
+├── 🐍 python/    
+│   ├── 01_fundamentos/       # Variables, condicionales y bucles básicos      
+│   ├── 02_list_comprehension/# Optimización y trucos de sintaxis en Python      
+│   └── 03_generadores/       # Ejercicios con yield (procesamiento eficiente)      
+├── 🎯 csharp_net/      
+│   ├── 01_conceptos_poo/     # Abstracción, herencia y polimorfismo práctico      
+│   ├── 02_estructuras_datos/ # Pilas (Stack), Colas (Queue) y Diccionarios      
+│   └── 03_using_statements/  # Ejemplos de gestión de recursos (IDisposable)      
+└── ⚙️ cpp/      
+    └── 01_punteros/          # Gestión de memoria y estructuras básicas en C++    
 >
 
 
